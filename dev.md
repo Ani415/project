@@ -1,1 +1,1 @@
-read
+some strange text
